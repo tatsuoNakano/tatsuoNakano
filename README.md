@@ -8,16 +8,22 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I'm not a programmer trained by a company, I'm a self-taught independent engineer.
 
+## OS
+[![My Skills](https://skillicons.dev/icons?i=apple,linux,raspberrypi,ubuntu,windows,&theme=dark)](https://skillicons.dev)
 ## editor
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,atom,idea,vscode,webstorm,&theme=dark)](https://skillicons.dev)
 ## programming language
 [![My Skills](https://skillicons.dev/icons?i=html,md,pug,css,sass,js,ts,svg,&theme=dark)](https://skillicons.dev)
 ## library
 [![My Skills](https://skillicons.dev/icons?i=babel,d3,graphql,nodejs,npm,react,redux,sqlite,webpack,yarn,&theme=dark)](https://skillicons.dev)
+## framework
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,gatsby,materialui,nextjs,tailwind,wordpress&theme=dark)](https://skillicons.dev)
 ## tools
 [![My Skills](https://skillicons.dev/icons?i=discord,docker,git,github,gmail,netlify,stackoverflow,&theme=dark)](https://skillicons.dev)
 ## desigh tools
 [![My Skills](https://skillicons.dev/icons?i=ai,ps,pr,xd,figma,&theme=dark)](https://skillicons.dev)
+
+
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=tatsuoNakano&show_icons=true&locale=en&layout=compact)
