@@ -22,10 +22,5 @@
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)
 
-<!--
-**tatsuoNakano/tatsuoNakano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://raw.githubusercontent.com/tatsuoNakano/tatsuoNakano/output/github-contribution-grid-snake.svg)
 
-Here are some ideas to get you started:
-
-
--->
