@@ -7,15 +7,13 @@
 - 📫 How to reach me: ... 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I'm not a programmer trained by a company, I'm a self-taught independent engineer.
-![](https://raw.githubusercontent.com/tatsuoNakano/tatsuoNakano/output/github-contribution-grid-snake.svg)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
 ![](https://komarev.com/ghpvc/?username=tatsuoNakano)
 ![](https://img.shields.io/github/followers/tatsuoNakano?label=follow&logo=github&style=flat)
+![](https://raw.githubusercontent.com/tatsuoNakano/tatsuoNakano/output/github-contribution-grid-snake.svg)
+
+
+
 
 
 ## Stats
