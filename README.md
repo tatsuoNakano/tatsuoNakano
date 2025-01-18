@@ -11,6 +11,11 @@
 ## editor
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,atom,idea,vscode,webstorm,&theme=dark)](https://skillicons.dev)
 ## programming language
+[![My Skills](https://skillicons.dev/icons?i=html,md,pug,css,sass,js,ts,svg,&theme=dark)](https://skillicons.dev)
+## library
+[![My Skills](https://skillicons.dev/icons?i=babel,d3,graphql,nodejs,npm,react,redux,sqlite,webpack,yarn,&theme=dark)](https://skillicons.dev)
+## tools
+[![My Skills](https://skillicons.dev/icons?i=discode,docker,git,github,gmail,netlify,stackoverflow,&theme=dark)](https://skillicons.dev)
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=tatsuoNakano&show_icons=true&locale=en&layout=compact)
