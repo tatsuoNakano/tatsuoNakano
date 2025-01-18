@@ -22,15 +22,17 @@
 [![My Skills](https://skillicons.dev/icons?i=discord,docker,git,github,gmail,netlify,stackoverflow,&theme=dark)](https://skillicons.dev)
 ## desigh tools
 [![My Skills](https://skillicons.dev/icons?i=ai,ps,pr,xd,figma,&theme=dark)](https://skillicons.dev)
-
+## SNS
+[![My Skills](https://skillicons.dev/icons?i=instagram,twitter,&theme=dark)](https://skillicons.dev)
 
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=tatsuoNakano&show_icons=true&locale=en&layout=compact)
 
+
 ![](https://komarev.com/ghpvc/?username=tatsuoNakano)
 ![](https://img.shields.io/github/followers/tatsuoNakano?label=follow&logo=github&style=flat)
-![](https://raw.githubusercontent.com/tatsuoNakano/tatsuoNakano/output/github-contribution-grid-snake.svg)
+
 
 
 
@@ -46,6 +48,10 @@
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)
+
+
+
+![](https://raw.githubusercontent.com/tatsuoNakano/tatsuoNakano/output/github-contribution-grid-snake.svg)
 
 
 
