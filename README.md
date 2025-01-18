@@ -20,6 +20,7 @@
 
 
 
+
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tatsuoNakano&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tatsuoNakano&theme=gruvbox)
