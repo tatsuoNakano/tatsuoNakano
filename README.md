@@ -15,12 +15,20 @@
 <img src="https://img.shields.io/badge/-Adobe%20premiere-EA77FF.svg?logo=adobe-premiere&style=plastic">
 <img src="https://img.shields.io/badge/-Adobe%20xd-FF2BC2.svg?logo=adobe-xd&style=plastic">
 
+### Services used
+<img src="https://img.shields.io/badge/-Discord-7289DA.svg?logo=discord&style=plastic">
+
+### programming language
+<img src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=plastic">
+<img src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=plastic">
+<img src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=plastic">
+
 <img src="https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=plastic">
 <img src="https://img.shields.io/badge/-Babel-F9DC3E.svg?logo=babel&style=plastic">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=plastic">
-<img src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=plastic">
+
 <img src="https://img.shields.io/badge/-D3.js-F9A03C.svg?logo=d3.js&style=plastic">
-<img src="https://img.shields.io/badge/-Discord-7289DA.svg?logo=discord&style=plastic">
+
 <img src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=plastic">
 <img src="https://img.shields.io/badge/-Duckduckgo-DE5833.svg?logo=duckduckgo&style=plastic">
 <img src="https://img.shields.io/badge/-Evernote-00A82D.svg?logo=evernote&style=plastic">
@@ -35,11 +43,11 @@
 <img src="https://img.shields.io/badge/-Google%20analytics-FFC107.svg?logo=google-analytics&style=plastic">
 <img src="https://img.shields.io/badge/-Google%20chrome-4285F4.svg?logo=google-chrome&style=plastic">
 <img src="https://img.shields.io/badge/-Graphql-E10098.svg?logo=graphql&style=plastic">
-<img src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=plastic">
+
 <img src="https://img.shields.io/badge/-Instagram-E4405F.svg?logo=instagram&style=plastic">
 <img src="https://img.shields.io/badge/-Intel-0071C5.svg?logo=intel&style=plastic">
 <img src="https://img.shields.io/badge/-Intellijidea-000000.svg?logo=intellijidea&style=plastic">
-<img src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=plastic">
+
 <img src="https://img.shields.io/badge/-Json-000000.svg?logo=json&style=plastic">
 <img src="https://img.shields.io/badge/-Line-00C300.svg?logo=line&style=plastic">
 <img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=plastic">
