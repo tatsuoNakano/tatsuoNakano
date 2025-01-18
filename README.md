@@ -8,6 +8,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I'm not a programmer trained by a company, I'm a self-taught independent engineer.
 
+  ![](https://raw.githubusercontent.com/tatsuoNakano/tatsuoNakano/output/github-contribution-grid-snake.svg)
+
 ![](https://komarev.com/ghpvc/?username=tatsuoNakano)
 ![](https://img.shields.io/github/followers/tatsuoNakano?label=follow&logo=github&style=flat)
 
@@ -22,5 +24,5 @@
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)
 
-![](https://raw.githubusercontent.com/tatsuoNakano/tatsuoNakano/output/github-contribution-grid-snake.svg)
+
 
