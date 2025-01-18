@@ -85,7 +85,7 @@
 <img src="https://img.shields.io/badge/-Yarn-2C8EBB.svg?logo=yarn&style=plastic">
 <img src="https://img.shields.io/badge/-Youtube-FF0000.svg?logo=youtube&style=plastic">
 
-
+![](https://github-readme-stats.vercel.app/api/top-langs?username=tatsuoNakano&show_icons=true&locale=en&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=tatsuoNakano)
 ![](https://img.shields.io/github/followers/tatsuoNakano?label=follow&logo=github&style=flat)
