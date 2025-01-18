@@ -8,8 +8,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I'm not a programmer trained by a company, I'm a self-taught independent engineer.
 
-## エディタ
+## editor
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,atom,idea,vscode,webstorm,&theme=dark)](https://skillicons.dev)
+## programming language
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=tatsuoNakano&show_icons=true&locale=en&layout=compact)
