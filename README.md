@@ -15,7 +15,9 @@
 ## library
 [![My Skills](https://skillicons.dev/icons?i=babel,d3,graphql,nodejs,npm,react,redux,sqlite,webpack,yarn,&theme=dark)](https://skillicons.dev)
 ## tools
-[![My Skills](https://skillicons.dev/icons?i=discode,docker,git,github,gmail,netlify,stackoverflow,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,docker,git,github,gmail,netlify,stackoverflow,&theme=dark)](https://skillicons.dev)
+## desigh tools
+[![My Skills](https://skillicons.dev/icons?i=ai,ps,pr,xd,figma,&theme=dark)](https://skillicons.dev)
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=tatsuoNakano&show_icons=true&locale=en&layout=compact)
