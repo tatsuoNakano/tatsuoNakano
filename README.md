@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on ... I am developing a smartphone app using a combination of Expo and React native.
-- 🌱 I’m currently learning ... SVG + D3.js Docker
+- 🌱 I’m currently learning ... clojure
 - 👯 I’m looking to collaborate on ... company that hires
 - 🤔 I’m looking for help with ... Nothing in particular
 - 💬 Ask me about ...
