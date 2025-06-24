@@ -17,7 +17,7 @@
 ## library
 [![My Skills](https://skillicons.dev/icons?i=babel,d3,graphql,nodejs,npm,react,redux,sqlite,webpack,yarn,&theme=dark)](https://skillicons.dev)
 ## framework
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,gatsby,materialui,nextjs,tailwind,wordpress&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,electron,gatsby,materialui,nextjs,tailwind,wordpress&theme=dark)](https://skillicons.dev)
 ## tools
 [![My Skills](https://skillicons.dev/icons?i=discord,docker,git,github,gmail,netlify,stackoverflow,&theme=dark)](https://skillicons.dev)
 ## desigh tools
