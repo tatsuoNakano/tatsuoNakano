@@ -1,11 +1,8 @@
 ## Hi there 👋
 - 🔭 I’m currently working on ... I am developing a smartphone app using a combination of Expo and React native.
-- 🌱 I’m currently learning ... clojure
+- 🌱 I’m currently learning ... Clojure
 - 👯 I’m looking to collaborate on ... company that hires
 - 🤔 I’m looking for help with ... Nothing in particular
-- 💬 Ask me about ...
-- 📫 How to reach me: ... 
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ... I'm not a programmer trained by a company, I'm a self-taught independent engineer.
 
 ## OS
@@ -20,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,electron,gatsby,materialui,nextjs,tailwind,wordpress&theme=dark)](https://skillicons.dev)
 ## tools
 [![My Skills](https://skillicons.dev/icons?i=discord,docker,git,github,gmail,netlify,stackoverflow,&theme=dark)](https://skillicons.dev)
-## desigh tools
+## design tools
 [![My Skills](https://skillicons.dev/icons?i=ai,ps,pr,xd,figma,&theme=dark)](https://skillicons.dev)
 ## SNS
 [![My Skills](https://skillicons.dev/icons?i=instagram,twitter,&theme=dark)](https://skillicons.dev)
@@ -47,7 +44,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tatsuoNakano&theme=gruvbox&utcOffset=9)
 
 ## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)
+![trophy](https://github-profile-trophy.vercel.app/?username=tatsuoNakano&theme=gruvbox)
 
 
 
