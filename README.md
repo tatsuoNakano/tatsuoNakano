@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Clojure
 - 👯 I’m looking to collaborate on ... company that hires
 - 🤔 I’m looking for help with ... Nothing in particular
-- ⚡ Fun fact: ... I'm not a programmer trained by a company, I'm a self-taught independent engineer.
+- ⚡ Fun fact: ... I'm not a programmer trained by a company, I'm a self-taught independent Hacker.
 
 ## OS
 [![My Skills](https://skillicons.dev/icons?i=apple,linux,raspberrypi,ubuntu,windows,&theme=dark)](https://skillicons.dev)
