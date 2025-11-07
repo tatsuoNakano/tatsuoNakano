@@ -11,6 +11,10 @@
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,atom,idea,vscode,webstorm,&theme=dark)](https://skillicons.dev)
 ## programming language
 [![My Skills](https://skillicons.dev/icons?i=html,md,pug,css,sass,js,ts,svg,&theme=dark)](https://skillicons.dev)
+## mobile / tools for RN
+[![Expo](https://img.shields.io/badge/Expo-000?style=for-the-badge&logo=expo&logoColor=white)](#)
+[![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+[![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)](#)
 ## library
 [![My Skills](https://skillicons.dev/icons?i=babel,d3,graphql,nodejs,npm,react,redux,sqlite,webpack,yarn,jest,&theme=dark)](https://skillicons.dev)
 ## framework
