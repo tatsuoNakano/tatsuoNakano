@@ -23,10 +23,10 @@
 ![Atom](https://img.shields.io/badge/Atom-000000?style=for-the-badge&logo=atom&logoColor=white)
 
 ## Programming Languages
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Pug](https://img.shields.io/badge/Pug-000000?style=for-the-badge&logo=pug&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
@@ -37,12 +37,12 @@
 ![React Native](https://img.shields.io/badge/React%20Native-000000?style=for-the-badge&logo=react&logoColor=white)
 
 ## Services / SDKs (Analytics / Monetization / Backend / Config)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 ![RevenueCat](https://img.shields.io/badge/RevenueCat-000000?style=for-the-badge&logo=revenuecat&logoColor=white)
 ![AdMob](https://img.shields.io/badge/AdMob-000000?style=for-the-badge&logo=admob&logoColor=white)
 ![dotenv](https://img.shields.io/badge/dotenv-000000?style=for-the-badge&logo=dotenv&logoColor=white)
 
-## Libraries (UI / State / Data / Build)
+## Libraries
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=white)
@@ -55,7 +55,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=white)
 ![Lottie](https://img.shields.io/badge/Lottie-000000?style=for-the-badge&logo=lottiefiles&logoColor=white)
-![Vanta](https://img.shields.io/badge/Vanta-000000?style=for-the-badge&logoColor=white)
+![Vanta.js](https://img.shields.io/badge/Vanta.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
 ## Frameworks
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -75,18 +75,12 @@
 ![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-000000?style=for-the-badge&logo=obsidian&logoColor=white)
-
-## Design
-![Illustrator](https://img.shields.io/badge/Illustrator-000000?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-000000?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-000000?style=for-the-badge&logo=adobexd&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![Metro Bundler](https://img.shields.io/badge/Metro%20Bundler-000000?style=for-the-badge)
 
 ## Marketing / SEO / Analytics
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-000000?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Keyword Planner](https://img.shields.io/badge/Keyword%20Planner-000000?style=for-the-badge&logo=googleads&logoColor=white)
-![Google Trends](https://img.shields.io/badge/Google%20Trends-000000?style=for-the-badge&logo=google&logoColor=white)
+![Google Trends](https://img.shields.io/badge/Google%20Trends-000000?style=for-the-badge&logo=googletrends&logoColor=white)
 ![Search Console](https://img.shields.io/badge/Search%20Console-000000?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
 ![Tag Manager](https://img.shields.io/badge/Tag%20Manager-000000?style=for-the-badge&logo=googletagmanager&logoColor=white)
 
