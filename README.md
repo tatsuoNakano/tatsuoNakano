@@ -82,6 +82,14 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+## Marketing / SEO / Analytics
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Keyword Planner](https://img.shields.io/badge/Keyword%20Planner-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![Google Trends](https://img.shields.io/badge/Google%20Trends-4285F4?style=for-the-badge&logo=googletrends&logoColor=white)
+![Search Console](https://img.shields.io/badge/Search%20Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+![Tag Manager](https://img.shields.io/badge/Tag%20Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
+
+
 ## SNS
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
