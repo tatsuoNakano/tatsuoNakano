@@ -21,6 +21,8 @@
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=26A6FF)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=FE315D)
 ![Atom](https://img.shields.io/badge/Atom-000000?style=for-the-badge&logo=atom&logoColor=9FBC50)
+![Kiro](https://img.shields.io/badge/Kiro-000000?style=for-the-badge&logo=github&logoColor=9FBC50)
+
 
 ## Programming Languages
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
