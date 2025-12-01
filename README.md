@@ -17,7 +17,7 @@
 ## Editor / IDE
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
 ![Xcode](https://img.shields.io/badge/Xcode-000000?style=for-the-badge&logo=xcode&logoColor=147EFB)
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=vscode&logoColor=007ACC)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=26A6FF)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=FE315D)
 ![Atom](https://img.shields.io/badge/Atom-000000?style=for-the-badge&logo=atom&logoColor=9FBC50)
